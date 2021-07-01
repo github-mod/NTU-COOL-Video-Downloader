@@ -31,7 +31,7 @@ Should you intend to use this project or optimize it, my consent is not needed, 
 3. `download_videos.py` 將整理好的影片資源連結下載至電腦。
 
 The project is broken down into three steps:
-1. `get_title_links.py` Cleanse the source of the course page, and getting the titles for the videos and video (playbak) links.
+1. `get_title_links.py` Cleanse the source of the course page, and getting the titles for the videos and video (playback) links.
 2. `get_video_links.py` Crawl the links of the media resources.
 3. `download_videos.py` Download the sorted resources to local computer.
 
