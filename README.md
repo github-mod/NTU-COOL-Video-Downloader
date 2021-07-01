@@ -9,7 +9,7 @@
 其使用到的Chrome 是Version 91。
 
 Hi, this is an experimental project intended to help download the course contents on [NTU COOL](https://cool.ntu.edu.tw).
-It was completely developed using [python](https://python.org), while packages such as [BeautifulSoup](https://code.launchpad.net/beautifulsoup/),  [Selenium](https://www.selenium.dev/) and WebDriver are also used.
+It was completely developed using [python3](https://python.org), while packages such as [BeautifulSoup](https://code.launchpad.net/beautifulsoup/),  [Selenium](https://www.selenium.dev/) and WebDriver are also used.
 Chrome used in this project is of version 91.
 
 ### 責任聲明 Legal Notice
