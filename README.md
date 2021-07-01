@@ -36,11 +36,12 @@ The project is broken down into three steps:
 3. `download_videos.py` Download the sorted resources to local computer.
 
 
-### 可能的改進方向 Possible Improvments
+### 可能的改進方向
 
 1. 影片下載時預設為720p。可透過點按畫質設定的方式取得更高畫質之連結。
 2. 目前只能對影片連結進行互動，未來或可加入其他種類資源連結之爬取。
 
+###  Possible Improvments
 
 1. The default quality of the videos are 720p. It could be changed by clicking quality settings on the webpage, but was not included in this version of the project.
 2. Currently only videos are available for dowload. We look forward to adding other type of resources to this project.
